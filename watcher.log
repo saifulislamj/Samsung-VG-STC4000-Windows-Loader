@@ -1,0 +1,21 @@
+[2026-11-09 14:42:01] =================================================
+[2026-11-09 14:42:01]    Samsung VG-STC4000 Plug-and-Play Watcher     
+[2026-11-09 14:42:01] =================================================
+[2026-11-09 14:42:01] [*] Monitoring USB ports. Camera will auto-initialize whenever plugged in.
+[2026-11-09 14:42:01] [+] Camera is currently active (SAMSUNG VD USB HDCAM).
+[2026-11-09 14:42:52] [-] Samsung Camera was unplugged.
+[2026-11-09 14:42:56] [+] Samsung Camera plugged in (VID_04E8&PID_2061).
+[2026-11-09 14:42:56] [*] Initializing firmware upload...
+[2026-11-09 14:42:56] [+] Connecting to camera interface: \\?\USB#VID_04E8&PID_2061&MI_02#6&158ab646&0&0002#{cf80a6e7-97e3-46a6-9a90-67929603c3ff}
+[2026-11-09 14:42:56] [+] Loaded firmware binary: 682712 bytes
+[2026-11-09 14:42:56] [*] Initializing firmware transfer sequence...
+[2026-11-09 14:42:56] [*] Streaming 21335 chunks into camera RAM...
+[2026-11-09 14:42:57]     [23%] Uploaded 5000/21335 chunks
+[2026-11-09 14:42:58]     [46%] Uploaded 10000/21335 chunks
+[2026-11-09 14:42:58]     [70%] Uploaded 15000/21335 chunks
+[2026-11-09 14:42:59]     [93%] Uploaded 20000/21335 chunks
+[2026-11-09 14:42:59]     [100%] Uploaded 21335/21335 chunks
+[2026-11-09 14:42:59] [+] All firmware chunks uploaded successfully!
+[2026-11-09 14:42:59] [*] Sending Boot Firmware command...
+[2026-11-09 14:42:59] [***] SUCCESS! Firmware booted successfully! Camera is now active!
+[2026-11-09 14:42:59] [***] Camera initialized successfully! Device is ready.
